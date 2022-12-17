@@ -9,7 +9,7 @@
 - [BRAM](https://github.com/depressed-shashi/resources/raw/main/cfandpc/B-Ram-comp_fundamentals.pdf)
 
 ## c programming
-- [programming in ansi c-E balaguruswamy](https://github.com/depressed-shashi/resources/raw/main/cprogramming/E%20Balagurusamy%20-%20Programming%20in%20ANSI%20C-McGraw%20Hill%20Education.pdf)
+- [programming in ansi c-n E Balaguruswamy](https://github.com/depressed-shashi/resources/raw/main/cprogramming/E%20Balagurusamy%20-%20Programming%20in%20ANSI%20C-McGraw%20Hill%20Education.pdf)
 
 
 ## digital-electronics
