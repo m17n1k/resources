@@ -4,7 +4,7 @@
 
 ## cfandpc
 - [computer fundamentals](https://github.com/depressed-shashi/resources/raw/main/cfandpc/comp_fundamentals_priti_sinha.pdf)
-###   reference
+  **reference**
 - [BRAM](https://github.com/depressed-shashi/resources/raw/main/cfandpc/B-Ram-comp_fundamentals.pdf)
 
 ## c programming
