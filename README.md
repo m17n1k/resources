@@ -1,7 +1,6 @@
 
 
 # sem1
-------------------------------------------------------------------------------------------------------------------------------
 
 ## cfandpc
 - [computer fundamentals](https://github.com/depressed-shashi/resources/raw/main/cfandpc/comp_fundamentals_priti_sinha.pdf)
@@ -27,7 +26,7 @@
 
 # sem2
 
---------------------------------------------------------------------------------------------------------------------------------------
+
 ## oops with cpp
 - [object oriented programming with cpp (download link)](https://cdn1.booksdl.org/get.php?md5=962dd8b945cdf321ac9ec5696ab5226f&key=7GZZ5BX58P9X2MP2&mirr=1)
 
