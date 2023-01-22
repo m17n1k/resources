@@ -20,7 +20,7 @@
 
 ## discrete-mathematics
 - [discrete mathematics and its applications](https://github.com/depressed-shashi/resources/raw/main/discrete-mathematics/Kenneth%20H.%20Rosen%20-%20Discrete%20mathematics%20and%20its%20applications%20(2013%2C%20McGraw-Hill)%20-%20libgen.li.pdf)
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## pdf files for sem2
