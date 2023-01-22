@@ -31,7 +31,7 @@
 
 ## computer organisation and architecture
 
-- [coa]()
+- [computer architecture and parallel processing(download link)](https://libgen.rocks/get.php?md5=fd71fa4434b0dbad694381c7db6bce43&key=OT7JVKMPP3O1E6SM)
 
 ## data communication
 
