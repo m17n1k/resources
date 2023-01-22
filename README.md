@@ -18,4 +18,4 @@
  
 
 ## discrete-mathematics
--[discrete mathematics and its applications]()
+- [discrete mathematics and its applications]()
