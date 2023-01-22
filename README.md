@@ -27,11 +27,12 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------
 ## oops with cpp
-- [oops with cpp]()
+- [object oriented programming with cpp (download link)](https://cdn1.booksdl.org/get.php?md5=962dd8b945cdf321ac9ec5696ab5226f&key=7GZZ5BX58P9X2MP2&mirr=1)
 
 ## computer organisation and architecture
 
 - [computer architecture and parallel processing(download link)](https://libgen.rocks/get.php?md5=fd71fa4434b0dbad694381c7db6bce43&key=OT7JVKMPP3O1E6SM)
+- [computer system architecture-morris mano(download link)](https://cdn1.booksdl.org/get.php?md5=a43417812b9852f89a683084fa7be005&key=2CG7438XJO0V3AXY&mirr=1)
 
 ## data communication
 
