@@ -1,6 +1,7 @@
 # resources
 
 ## pdf files for sem1
+~~~
 
 ## cfandpc
 - [computer fundamentals](https://github.com/depressed-shashi/resources/raw/main/cfandpc/comp_fundamentals_priti_sinha.pdf)
