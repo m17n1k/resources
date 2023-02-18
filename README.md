@@ -3,21 +3,21 @@
 # sem1
 
 ## cfandpc
-- [computer fundamentals](https://github.com/depressed-shashi/resources/raw/main/cfandpc/comp_fundamentals_priti_sinha.pdf)
+- [computer fundamentals](https://github.com/m17n1k/resources/raw/main/cfandpc/comp_fundamentals_priti_sinha.pdf)
 
 **reference**
-- [BRAM](https://github.com/depressed-shashi/resources/raw/main/cfandpc/B-Ram-comp_fundamentals.pdf)
+- [BRAM](https://github.com/m17n1k/resources/raw/main/cfandpc/B-Ram-comp_fundamentals.pdf)
 
 ## c programming
 - [programming in ansi c - E Balaguruswamy](http://62.182.86.140/main/2511000/8b38eb73bb636a845abc9e4921ccd774/E.%20Balagurusamy%20-%20Programming%20in%20ANSI%20C-McGraw%20Hill%20Education%20%28India%29%20%282016%29.pdf)
 
 ## digital-electronics
 
-- [digital fundamentals](https://github.com/depressed-shashi/resources/raw/main/digital-electronics/Thomas%20L.%20Floyd%20-%20Digital%20Fundamentals-Prentice%20Hall%20(2014).pdf)
+- [digital fundamentals](https://github.com/m17n1k/resources/raw/main/digital-electronics/Thomas%20L.%20Floyd%20-%20Digital%20Fundamentals-Prentice%20Hall%20(2014).pdf)
  
 
 ## discrete-mathematics
-- [discrete mathematics and its applications](https://github.com/depressed-shashi/resources/raw/main/discrete-mathematics/Kenneth%20H.%20Rosen%20-%20Discrete%20mathematics%20and%20its%20applications%20(2013%2C%20McGraw-Hill)%20-%20libgen.li.pdf)
+- [discrete mathematics and its applications](https://github.com/m17n1k/resources/raw/main/discrete-mathematics/Kenneth%20H.%20Rosen%20-%20Discrete%20mathematics%20and%20its%20applications%20(2013%2C%20McGraw-Hill)%20-%20libgen.li.pdf)
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------------------------------------------------------------------
