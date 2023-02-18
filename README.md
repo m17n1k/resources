@@ -3,7 +3,7 @@
 # sem1
 
 ## cfandpc
-- [computer fundamentals](https://github.com/m17n1k/resources/raw/main/cfandpc/comp_fundamentals_priti_sinha.pdf)
+- [computer fundamentals](https://raw.githubusercontent.com/m17n1k/resources/main/cfandpc/comp-fund.pdf)
 
 **reference**
 - [BRAM](https://raw.githubusercontent.com/m17n1k/resources/main/cfandpc/BRAM.pdf)
