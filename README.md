@@ -17,7 +17,7 @@
  
 
 ## discrete-mathematics
-- [discrete mathematics and its applications](https://raw.githubusercontent.com/m17n1k/resources/main/discrete-maths.pdf)
+- [discrete mathematics and its applications](https://raw.githubusercontent.com/m17n1k/resources/main/discrete-mathematics/discrete-maths.pdf)
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------------------------------------------------------------------
